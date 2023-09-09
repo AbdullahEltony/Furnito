@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3aad17c1.css",
+    "main.js": "/static/js/main.58f9d9f3.js",
+    "static/js/787.0fe84981.chunk.js": "/static/js/787.0fe84981.chunk.js",
+    "static/media/landing-img.png": "/static/media/landing-img.bc2e303126a5ecc6b183.png",
+    "static/media/arrival11669021970.png": "/static/media/arrival11669021970.ee8fc184228872a8f2ed.png",
+    "static/media/methode-3.png": "/static/media/methode-3.53ac738a972d23750d1a.png",
+    "static/media/slider-img-1.png": "/static/media/slider-img-1.74f337491ed5c8629e16.png",
+    "static/media/slider-img-6.png": "/static/media/slider-img-6.3ff0fc46ea0429d44637.png",
+    "static/media/slider-img-5.png": "/static/media/slider-img-5.d019754ea319bfdfc1ec.png",
+    "static/media/slider-img-3.png": "/static/media/slider-img-3.be383847e1cde7fbefdc.png",
+    "static/media/slider-img-4.png": "/static/media/slider-img-4.c23b5f0537635f0d719d.png",
+    "static/media/slider-img-2.png": "/static/media/slider-img-2.52f0ec9077876e00a0c9.png",
+    "static/media/about01.jpg": "/static/media/about01.ff8c92bd603e0cd2e3c4.jpg",
+    "static/media/flours.png": "/static/media/flours.f1292fc798bdacec8a63.png",
+    "static/media/chair.png": "/static/media/chair.d7ad42eed82786f1e363.png",
+    "static/media/404.png": "/static/media/404.3230ce0623fbf65e01d8.png",
+    "static/media/method-9.jpg": "/static/media/method-9.13dbbed8d711c9892ecf.jpg",
+    "static/media/method-1.png": "/static/media/method-1.e7818f5e71560ebf90f3.png",
+    "static/media/method-10.png": "/static/media/method-10.b5f51414c7b0137bde1d.png",
+    "static/media/method-11.png": "/static/media/method-11.cbb7fd5fe0e039b108da.png",
+    "static/media/slider-img-7.png": "/static/media/slider-img-7.6879c4764e913e8dde16.png",
+    "static/media/methode-4.png": "/static/media/methode-4.d9e14fb47ef1703ad73e.png",
+    "static/media/main-logo.png": "/static/media/main-logo.c1176ef17467162caebb.png",
+    "static/media/methode-6.png": "/static/media/methode-6.94bc9ac7eee731dfa3fd.png",
+    "static/media/png1672834115.png": "/static/media/png1672834115.4f51d3f3fa1bcdc3e5b7.png",
+    "static/media/method-2.png": "/static/media/method-2.bab1e327273baff0d676.png",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "main.3aad17c1.css.map": "/static/css/main.3aad17c1.css.map",
+    "main.58f9d9f3.js.map": "/static/js/main.58f9d9f3.js.map",
+    "787.0fe84981.chunk.js.map": "/static/js/787.0fe84981.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3aad17c1.css",
+    "static/js/main.58f9d9f3.js"
+  ]
+}
